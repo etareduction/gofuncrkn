@@ -1,4 +1,4 @@
-module gofuncrkn
+module github.com/etareduction/gofuncrkn
 
 go 1.24.3
 
